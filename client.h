@@ -17,7 +17,7 @@ explicit Client(QWidget *parent = nullptr);
 
 private:
 Ui::Client *ui;
-quint8 var8;
+quint8 var8, var5;
 };
 
 #endif // CLIENT_H
